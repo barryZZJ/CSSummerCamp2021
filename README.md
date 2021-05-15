@@ -27,7 +27,7 @@
 
 - [x] 【报名截止: 2021.6.20】[南京大学计算机科学与技术系2021年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/15)
 
-【报名截止: 2021.5.30】[软件所招收 2021/2022 年秋季入学研究生说明](http://ics.nju.edu.cn/recruit/)
+- [x] 【报名截止: 2021.5.30】[软件所招收 2021/2022 年秋季入学研究生说明](http://ics.nju.edu.cn/recruit/)
 
 
 
@@ -52,9 +52,9 @@
 
 # 中国科学技术大学
 
-- [x]【报名截止: 2021.6.20】[2021年第八届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=811)  
+- [x] 【报名截止: 2021.6.20】[2021年第八届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=811)  
 
-- [x]【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
+- [x] 【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
 
 
 
