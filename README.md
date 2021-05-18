@@ -12,6 +12,10 @@
 
 - [x] 【报名截止: 2021.5.27】[清华大学交叉信息研究院](https://mp.weixin.qq.com/s?__biz=MzAxMDg0OTUxNw==&mid=2650704246&idx=1&sn=bf64888fab548692893652f1d18bbaf4&chksm=834034f4b437bde2d4d99092db02b79fbe3910c7458ea21631b2a5f3d44d197cfffc8d4f1431&mpshare=1&scene=23&srcid=0423LyoFEF6kDHrsde8bDQAM&sharer_sharetime=1619169820730&sharer_shareid=65ac75bddc052584c99b39fcfe96cd3d#rd)
 
+【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
+
+【报名截止: 2021.5.28】[清华大学软件学院2021年优秀大学生夏令营报名通知](https://www.thss.tsinghua.edu.cn/article/5ncK5Z9wH9)
+
 
 
 # 北京大学
@@ -74,13 +78,13 @@
 
 - [x] 【报名截止: 2021.6.30】[中国科学院自动化研究所2021年“人工智能”大学生暑期学校招生通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202105/t20210513_6013089.html)
 
-
+【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
 
 
 
 # 哈尔滨工业大学
 
-- [x] 【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
+- [x] ~~【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)~~
 
 - [x] 【第一轮报名截止至5月31日】[哈工大海量数据计算研究中心面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzU0MzYzNDQ2Ng==&mid=2247484892&idx=1&sn=733445fddcf6fa9372d647d14590ccee&chksm=fb092091cc7ea9877072aa02107d5984475f5ce5260d2ae9f044d315802fbfef20289d6a38a5&mpshare=1&scene=23&srcid=0512SujeJ9Sue1NEqnX0EzpB&sharer_sharetime=1620780091771&sharer_shareid=f11b613486ea49d65c04bc821bbd6df1#rd)
 
@@ -93,6 +97,7 @@
 - [x] 【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
 
 
+
 # 西湖大学
 
 - [x] 【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
@@ -102,6 +107,12 @@
 # 兰州大学
 
 - [x] 【报名截止: 2021.5.30】[兰州大学信息科学与工程学院2021年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/tongzhigonggao/2021/0428/171601.html)
+
+
+
+# 中国农业大学
+
+【报名截止: 2021.6.25】[中国农业大学信息与电气工程学院云端优秀大学生夏令营通知](http://ciee.cau.edu.cn/art/2021/5/14/art_26712_747156.html)
 
 
 
@@ -117,9 +128,13 @@
 
 - [x] ~~【报名截止: 2021.5.1】[香港大学计算机科学系提前批](https://i.cs.hku.hk/~gradappl/chinese.html)~~
 
-- [x] 【报名截止: 2021.5.16】[香港中文大学招生夏令营](http://hkpfs.erg.cuhk.edu.hk/)
+- [x] ~~【报名截止: 2021.5.16】[香港中文大学招生夏令营](http://hkpfs.erg.cuhk.edu.hk/)~~
 
 - [x] 【报名截止: 2021.5.20】[香港大学计算机科学研究实习项目](https://www.cs.hku.hk/rintern/)
+
+
+
+
 
 # 计算机保研交流群
 
