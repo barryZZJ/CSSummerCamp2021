@@ -12,9 +12,9 @@
 
 - [x] 【报名截止: 2021.5.27】[清华大学交叉信息研究院](https://mp.weixin.qq.com/s?__biz=MzAxMDg0OTUxNw==&mid=2650704246&idx=1&sn=bf64888fab548692893652f1d18bbaf4&chksm=834034f4b437bde2d4d99092db02b79fbe3910c7458ea21631b2a5f3d44d197cfffc8d4f1431&mpshare=1&scene=23&srcid=0423LyoFEF6kDHrsde8bDQAM&sharer_sharetime=1619169820730&sharer_shareid=65ac75bddc052584c99b39fcfe96cd3d#rd)
 
-【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
+- [x] 【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
 
-【报名截止: 2021.5.28】[清华大学软件学院2021年优秀大学生夏令营报名通知](https://www.thss.tsinghua.edu.cn/article/5ncK5Z9wH9)
+- [x] 【报名截止: 2021.5.28】[清华大学软件学院2021年优秀大学生夏令营报名通知](https://www.thss.tsinghua.edu.cn/article/5ncK5Z9wH9)
 
 
 
@@ -78,7 +78,7 @@
 
 - [x] 【报名截止: 2021.6.30】[中国科学院自动化研究所2021年“人工智能”大学生暑期学校招生通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202105/t20210513_6013089.html)
 
-【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
+- [x] 【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
 
 
 
@@ -124,7 +124,7 @@
 
 # 中国农业大学
 
-【报名截止: 2021.6.25】[中国农业大学信息与电气工程学院云端优秀大学生夏令营通知](http://ciee.cau.edu.cn/art/2021/5/14/art_26712_747156.html)
+- [x] 【报名截止: 2021.6.25】[中国农业大学信息与电气工程学院云端优秀大学生夏令营通知](http://ciee.cau.edu.cn/art/2021/5/14/art_26712_747156.html)
 
 
 
